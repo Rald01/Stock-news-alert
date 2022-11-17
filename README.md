@@ -16,3 +16,5 @@ You need to have tokens and acounts from these to API:
    - You should first give the script the STOCK name of that company and the COMPANY_NAME.
    - We use the https://www.alphavantage.co api, so you should have and write your Stock_API_key in the script, and for the news we use https://newsapi.org api so you should write the News_API_key too.
     Finally, you have to get your VIRTUAL_NUMBER from twilio and verify your number to receive the SMS.
+## The Result Looks:
+![plot](./Capture.png)
