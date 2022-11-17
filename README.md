@@ -3,7 +3,7 @@ A script that gives you updates on the value of stock of any company in the mark
 
 A script that track the stock of any company in the market this script track the stock of your desired company and sends you an SMS, when there is a 5% change in value of the stock, news related to the stock are also included in the SMS.
 
-##How To Use It:
+## How To Use It:
 
 You need to have tokens and acounts from these to API:
 
